@@ -8,25 +8,25 @@ export default function ContactSection() {
     {
       name: "WhatsApp",
       icon: Phone,
-      href: "https://wa.me/1234567890",
+      href: "https://wa.me/qr/LVSNH2GBUKEPG1",
       color: "hover:text-green-400",
     },
     {
       name: "Email",
       icon: Mail,
-      href: "mailto:hello@filmmaker.com",
+      href: "younesabdat2@gmail.com",
       color: "hover:text-blue-400",
     },
     {
       name: "LinkedIn",
       icon: Linkedin,
-      href: "https://linkedin.com/in/filmmaker",
+      href: "https://www.linkedin.com/in/younes-abdat-5618162b9/",
       color: "hover:text-blue-600",
     },
     {
       name: "Instagram",
       icon: Instagram,
-      href: "https://instagram.com/in/filmmaker",
+      href: "https://www.instagram.com/younes.abdt/",
       color: "hover:text-pink-400",
     },
   ]
@@ -47,7 +47,7 @@ export default function ContactSection() {
           {/* Background Image */}
           <div className="relative h-64 rounded-lg overflow-hidden mb-8">
             <img
-              src="/filmmaker-studio-setup-with-camera-equipment.jpg"
+              src="/2.png"
               alt="Studio setup"
               className="w-full h-full object-cover"
             />
